@@ -11,6 +11,6 @@ namespace Bicep.Core.Registry.Oci
 
         public const string BicepSourceArtifactType = "application/vnd.ms.bicep.module.source";
         public const string BicepSourceConfigV1 = "application/vnd.ms.bicep.module.source.config.v1+json";
-        public const string BicepSourceV1Layer = "application/vnd.ms.bicep.module.source.v1+zip";
+        public const string BicepSourceV1Layer = "application/vnd.ms.bicep.module.source.layer.v1+zip"; //asdfg?
     }
 }
